@@ -6,16 +6,15 @@
 
 
 #
-![post1](assets/syf1.png)
 
-
-#
-![post2](assets/iki.png)
 
 
 #
-![post3](assets/uc.png)
+
+
+
+#
+
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
